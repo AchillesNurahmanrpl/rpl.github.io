@@ -1,0 +1,24 @@
+
+ <section class="new">
+      <div class="container py-5">
+        <div class="row pt-5">
+          <div class="col-lg-7 m-auto">
+            <div class="row">
+              <div class="col-lg-4">
+                <img src="img/proci.png" alt="img-luid">
+                <h6></h6>
+              </div>
+              <div class="col-lg-4">
+                <img src="img/proci.png" alt="img-luid">
+                <h6></h6>
+              </div>
+              <div class="col-lg-4">
+                <img src="img/proci.png" alt="img-luid">
+                <h6></h6>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </section>
